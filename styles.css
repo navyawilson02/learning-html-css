@@ -1,0 +1,35 @@
+body{
+    background-color: #8294C4;
+}
+.box-1{
+    background-color: beige;
+}
+table{
+    padding-left: 10px;
+    border: none;
+    border-color: black;
+}
+.box-1 h1{
+    font-style: italic;
+    text-decoration: underline;
+}
+.box-2{
+    border: 3px dotted brown;
+    padding: 20px;
+}
+.box-2 h3{
+    font-style: italic;
+    font-size: large;
+}
+a{
+  color: #000;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+a:visited{
+    color: purple;
+}
